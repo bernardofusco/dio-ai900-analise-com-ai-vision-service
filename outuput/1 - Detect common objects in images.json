@@ -1,0 +1,42 @@
+{
+  "apim-request-id": "b6bc39e3-88f4-4b03-85be-54157833201b",
+  "content-length": "306",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "metadata": {
+    "width": 2048,
+    "height": 1367
+  },
+  "objectsResult": {
+    "values": [
+      {
+        "boundingBox": {
+          "x": 502,
+          "y": 128,
+          "w": 1138,
+          "h": 562
+        },
+        "tags": [
+          {
+            "name": "Kitchen utensil",
+            "confidence": 0.506
+          }
+        ]
+      },
+      {
+        "boundingBox": {
+          "x": 41,
+          "y": 48,
+          "w": 1551,
+          "h": 1274
+        },
+        "tags": [
+          {
+            "name": "dining table",
+            "confidence": 0.598
+          }
+        ]
+      }
+    ]
+  }
+}
